@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @likeMike001
-- 👀 I’m interested in Data Structures && Algorithms and React
+- 👀 I’m interested in DSA && Web-D
 
 
 <!---
