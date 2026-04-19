@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Rudresh (aka likemike001)
+- 👋 Hi, I’m Vishnu (aka likemike001)
 - 👀 I’m interested in DSA && Web-D
 
 
